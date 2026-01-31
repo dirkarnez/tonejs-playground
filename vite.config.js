@@ -2,7 +2,7 @@
  * @type {import('vite').UserConfig}
  */
 const config = {
-  base: "/responsive-timetable/dist/"
+  base: "/tonejs-playground/dist/"
 }
 
 export default config
