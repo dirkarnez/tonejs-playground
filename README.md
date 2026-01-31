@@ -1,4 +1,4 @@
-[tonejs-playground](https://dirkarnez.github.io/tonejs-playground/)
+[tonejs-playground](https://dirkarnez.github.io/tonejs-playground/dist)
 ===================================================================
 ### FIX
 - [ ] Async load audio samples first, then inside the `Offline` callback, load them to `Tone.Sampler` / `Tone.Player` 
