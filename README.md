@@ -1,5 +1,5 @@
-tonejs-playground
-=================
+[tonejs-playground](https://dirkarnez.github.io/tonejs-playground/)
+===================================================================
 ### FIX
 - [ ] Async load audio samples first, then inside the `Offline` callback, load them to `Tone.Sampler` / `Tone.Player` 
     - [Is Tone.Sampler unavailable in Tone.Offline? · Issue #405 · Tonejs/Tone.js](https://github.com/Tonejs/Tone.js/issues/405)
