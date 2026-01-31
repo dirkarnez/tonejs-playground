@@ -1,0 +1,20 @@
+{
+  "name": "tonejs-playground",
+  "private": false,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/audiobuffer-to-wav": "^1.0.4",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "audiobuffer-to-wav": "^1.0.0",
+    "tone": "^15.1.22"
+  }
+}
