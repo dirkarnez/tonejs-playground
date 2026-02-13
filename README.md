@@ -14,3 +14,7 @@
 - [Offline](https://tonejs.github.io/docs/14.7.58/fn/Offline)
 - [寫程式也能作曲！用 Tone.js 打造你的專屬網頁音樂 - Calpa 的煉金工房](https://calpa.me/blog/tonejs-powerful-framework-for-web-audio/)
 - [ToneAudioBuffer](https://tonejs.github.io/docs/14.7.58/ToneAudioBuffer)
+- [ToneJS OfflineAudioContext example](https://codepen.io/newbeetf2/pen/ZEEXpGR?editors=1111)
+- [Edit fiddle - JSFiddle - Code Playground](https://jsfiddle.net/awendel/5j69de8b/16/)
+- !!!!!!!!!!!!![index.js - nodebox - CodeSandbox](https://codesandbox.io/p/sandbox/offline-rendering-test-2vw9r?file=%2Fsrc%2Findex.js%3A6%2C20)
+- [Tone.js音频单元测试终极指南：使用OfflineContext验证音频输出-CSDN博客](https://blog.csdn.net/gitblog_00818/article/details/152109466)
